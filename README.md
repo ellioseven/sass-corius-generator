@@ -6,4 +6,4 @@ This is a simple generator for [Corius](https://github.com/ellioseven/sass-coriu
 
 ```
 npm install -g generator-sass-corius && yo sass-corius
-``
+```
