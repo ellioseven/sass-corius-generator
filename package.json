@@ -10,11 +10,11 @@
   ],
   "dependencies": {
     "underscore.string": "^3.3.4",
-    "yeoman-generator": "^0.20.2"
+    "yeoman-generator": "^0.20.2",
+    "sass-corius": "https://github.com/ellioseven/sass-corius/archive/master.tar.gz"
   },
   "main": "index.js",
   "scripts": {
-    "install": "npm install https://github.com/ellioseven/sass-corius/archive/master.tar.gz",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
