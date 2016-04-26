@@ -1,6 +1,6 @@
 {
   "name": "generator-sass-corius",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A base for Sass libraries",
   "files": [
     "app"
