@@ -6,13 +6,15 @@
   "scripts": {
     "test": "mocha tests/index.js"
   },
+  "dependencies": {
+    "sassdash": "^0.8.1"
+  }
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-mocha": "^2.2.0",
     "gulp-sass": "^2.2.0",
     "gulp-sass-lint": "^1.1.1",
     "sass-true": "^2.0.3",
-    "sassdash": "^0.8.1",
     "sassdoc": "^2.1.20",
     "sassdoc-theme-markdown": "^2.0.1"
   }
